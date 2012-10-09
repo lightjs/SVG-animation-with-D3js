@@ -1,0 +1,3 @@
+# WebPlatform.org SVG logo animation
+
+Just for fun....
